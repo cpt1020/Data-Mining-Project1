@@ -1,0 +1,120 @@
+1: shrimp
+2: almonds
+3: avocado
+4: vegetables mix
+5: green grapes
+6: whole weat flour
+7: yams
+8: cottage cheese
+9: energy drink
+10: tomato juice
+11: low fat yogurt
+12: green tea
+13: honey
+14: salad
+15: mineral water
+16: salmon
+17: antioxydant juice
+18: frozen smoothie
+19: spinach
+20: olive oil
+21: burgers
+22: meatballs
+23: eggs
+24: chutney
+25: turkey
+26: milk
+27: energy bar
+28: whole wheat rice
+29: whole wheat pasta
+30: french fries
+31: soup
+32: light cream
+33: shallot
+34: frozen vegetables
+35: spaghetti
+36: pet food
+37: cookies
+38: cooking oil
+39: champagne
+40: chocolate
+41: chicken
+42: oil
+43: fresh tuna
+44: tomatoes
+45: black tea
+46: extra dark chocolate
+47: protein bar
+48: red wine
+49: pasta
+50: pepper
+51: shampoo
+52: rice
+53: sparkling water
+54: ham
+55: body spray
+56: pancakes
+57: grated cheese
+58: white wine
+59: toothpaste
+60: parmesan cheese
+61: fresh bread
+62: ground beef
+63: escalope
+64: herb & pepper
+65: tomato sauce
+66: magazines
+67: strawberries
+68: strong cheese
+69: pickles
+70: cake
+71: hot dogs
+72: brownies
+73: cereals
+74: clothes accessories
+75: bug spray
+76: muffins
+77: light mayo
+78: gums
+79: soda
+80: cider
+81: corn
+82: yogurt cake
+83: mint
+84: butter
+85: asparagus
+86: french wine
+87: salt
+88: tea
+89: barbecue sauce
+90: mayonnaise
+91: zucchini
+92: carrots
+93: mushroom cream sauce
+94: candy bars
+95: chili
+96: mashed potato
+97: nonfat milk
+98: water spray
+99: chocolate bread
+100: mint green tea
+101: eggplant
+102: blueberries
+103: bacon
+104: fromage blanc
+105: gluten free bar
+106: dessert wine
+107: flax seed
+108: hand protein bar
+109: sandwich
+110: babies food
+111: melons
+112: cauliflower
+113: green beans
+114: ketchup
+115: bramble
+116: burger sauce
+117: oatmeal
+118:  asparagus
+119: cream
+120: napkins
